@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Cluster Kit
+
+**Embryo Cluster Kit** is Embryo-Zero's fork of [k3s](https://github.com/k3s-io/k3s), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 K3s - Lightweight Kubernetes
 ===============================================
 [![FOSSA Status](https://app.fossa.com/api/projects/custom%2B25850%2Fgithub.com%2Fk3s-io%2Fk3s.svg?type=shield)](https://app.fossa.com/projects/custom%2B25850%2Fgithub.com%2Fk3s-io%2Fk3s?ref=badge_shield)
